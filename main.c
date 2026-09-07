@@ -6,7 +6,7 @@ int main(void)
     float weight;
     
 
-    height=12;
+    height=15;
     width=10;
     length=8;
     volume= height*width*length;
