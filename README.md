@@ -1,5 +1,5 @@
 # c-programming-practice
 My C programming practice and learning journey.
 
-#Programs Completed\n
+#Programs Completed
 -Box Weight Calculator
